@@ -15,6 +15,7 @@ Para añadir el mapa a nuestro proyecto
 
 ### 2. Añadir script de leaflet después del link a la hoja de estilos
 
+
 ```html 
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="">
@@ -93,7 +94,7 @@ const popup = L.popup()
 ```
 
 
-### 11. Cambiar capas de mapa, (librerías de mapas para leaflet)[https://github.com/leaflet-extras/leaflet-providers]:
+### 11. Cambiar capas de mapa, [librerías de mapas para leaflet](https://github.com/leaflet-extras/leaflet-providers):
 
 Añadir las librerias de mapas
 
