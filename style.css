@@ -1,4 +1,27 @@
 #map {
-    height: 400px;
-    width: 400px
+    position: center;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#map2 {
+    position: center;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#map3 {
+    position: center;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.boxMapa {
+    padding: 5px;
+    border: 1px solid red;
+    margin-top: 20px;
+
 }
